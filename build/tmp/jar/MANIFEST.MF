@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Specification-Title: hey
+Specification-Vendor: dannyhack
+Specification-Version: 1
+Implementation-Title: OpenZen-master
+Implementation-Version: 1.0
+Implementation-Vendor: dannyhack
+Implementation-Timestamp: 2026-07-14T17:13:50+0800
+Premain-Class: asm.patchify.loader.PatchAgent
+Agent-Class: asm.patchify.loader.PatchAgent
+Can-Retransform-Classes: true
+Can-Redefine-Classes: true
+
